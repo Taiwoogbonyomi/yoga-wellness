@@ -100,3 +100,30 @@ main {
 footer {
     background-color: bisque;
 }
+
+
+/* Media Queries */
+/* Tablets & larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header & Navigation */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu-list {
+        display: flex;
+    }
+
+    #menu-list > li {
+        padding-left: 1rem;
+
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+}
