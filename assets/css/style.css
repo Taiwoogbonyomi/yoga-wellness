@@ -20,9 +20,16 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgb(134, 86, 23);
+}
+
 /* Header */
 header {
-    background-color: #ffffaa;
+    background-color: #f9f9f8;
     padding: 0 1rem;
     position: fixed;
     z-index: 101;
@@ -31,7 +38,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-bottom: 46px;
+    
     
 
 }
@@ -57,17 +64,12 @@ header a {
     border-bottom: 1px solid #3a3a3a;
 }
 
-h1 {
-    font-family: 'Ubuntu Condensed', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: rgb(134, 86, 23);
-}
+
 
 /* Nav bar styles */
 nav {
     position: absolute;
-    background-color: #ffffaa;
+    background-color: #f9f9f8;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -99,18 +101,45 @@ main {
     
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 0;
+    margin-top: 46px;
+    
 }
-
 /* Meditation */
 #meditation {
     height: 600px;
     width: 100%;
     background: url("../images/meditation-image.jpg") no-repeat center center/cover;
+    position: relative;
 }
 
+#goals {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#goals h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 200%;
+}
+
+#goals p {
+    padding: 0 10px;
+}
+
+#goals > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+
 /* Footer */
-footer { background-color: rgba(0, 0, 0, .3);
+footer { background-color: #3a3a3a
     padding: 10px 0;
     text-align: center;
 }
@@ -159,7 +188,7 @@ footer { background-color: rgba(0, 0, 0, .3);
 
     main {
         /* Push main content down to accomodate larger header*/
-        margin-top: 75px;
+        margin-top: 35px;
     }
 }
 
