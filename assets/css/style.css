@@ -31,8 +31,32 @@ header {
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Menu-list */
+#menu-list {
+    font-size: 1rem;
+    letter-spacing: 2px;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+#menu-list > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 h1 {
     font-family: 'Ubuntu Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgb(134, 86, 23);
 }
 
 /* Main content */
