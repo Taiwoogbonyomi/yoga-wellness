@@ -1,6 +1,9 @@
 
+/* Google Fonts import*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Asterisks wildcard selector to select our elements */
+
+/* Asterisks wildcard selector to select elements */
 * {
     padding: 0;
     margin: 0;
@@ -13,6 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family: 'Roboto-condensed', sans-serif;
 }
 
 /* Header */
