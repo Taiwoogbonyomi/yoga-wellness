@@ -31,6 +31,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    margin-bottom: 46px;
+    
 
 }
 
@@ -58,20 +60,20 @@ header a {
 h1 {
     font-family: 'Ubuntu Condensed', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: rgb(134, 86, 23);
 }
 
 /* Nav bar styles */
 nav {
     position: absolute;
-background-color: #ffffaa;
-width: 100%;
-left: 0;
-padding: 0 1rem;
-box-shadow: 0 2px 2px #3a3a3a;
-display: none;
-top: 100%;
+    background-color: #ffffaa;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
 
 }
 
@@ -94,10 +96,17 @@ top: 100%;
 
 /* Main content */
 main {
-    background-color: gainsboro;
+    
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 0;
+}
+
+/* Meditation */
+#meditation {
+    height: 600px;
+    width: 100%;
+    background: url("../images/meditation-image.jpg") no-repeat center center/cover;
 }
 
 /* Footer */
@@ -113,6 +122,12 @@ footer { background-color: rgba(0, 0, 0, .3);
     justify-content: space-evenly;
     padding: 10px 0;
     list-style-type: none;
+}
+
+#social-networks a {
+    font-size: 20px;
+    padding: 5% 5% 0;
+    color:#3a3a3a
 }
 
 /* Media Queries */
@@ -140,15 +155,11 @@ footer { background-color: rgba(0, 0, 0, .3);
         display: none;
     }
 
-    #logo {
-        font-size: 60px;
-        line-height: 75px;
-        margin: 0, 0.5rem;
-    }
+     
 
     main {
         /* Push main content down to accomodate larger header*/
-        margin-top: 79px;
+        margin-top: 75px;
     }
 }
 
