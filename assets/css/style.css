@@ -88,6 +88,10 @@ top: 100%;
     font-size: 2rem;
 }
 
+#logo {
+    background-image: ;
+}
+
 /* Main content */
 main {
     background-color: gainsboro;
@@ -126,4 +130,16 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        font-size: 60px;
+        line-height: 75px;
+        margin: 0, 0.5rem;
+    }
+
+    main {
+        /* Push main content down to accomodate larger header*/
+        margin-top: 79px;
+    }
 }
+
