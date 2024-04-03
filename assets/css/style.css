@@ -1,0 +1,23 @@
+
+
+/* Asterisks wildcard selector to select our elements */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* Header */
+header {
+    background-color: aqua;}
+
+/* Main content */
+main {
+    background-color: gainsboro;
+}
+
+/* Footer */
+footer {
+    background-color: bisque;
+}
