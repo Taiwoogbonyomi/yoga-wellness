@@ -88,9 +88,9 @@ top: 100%;
     font-size: 2rem;
 }
 
-#logo {
+/*#logo {
     background-image: ;
-}
+}*/
 
 /* Main content */
 main {
@@ -143,3 +143,12 @@ footer {
     }
 }
 
+/* Larger devices (laptops and desktops, 992px and higher) */
+@media screen and (min-width: 992px) {
+    #menu-list a:hover {
+        border-bottom: 1px solid #3a3a3a;
+
+    }
+
+}
+    
