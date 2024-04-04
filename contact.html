@@ -25,15 +25,39 @@
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
         <nav>
             <ul id="menu-list">
-                <li><a href="">Home</a></li>
-                <li><a href="">Gallery</a></li>
-                <li><a href="" class="active">Contact Us</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html" class="active">Contact Us</a></li>
             </ul>
         </nav>
     </header>
 
     <!--Main content-->
-    <main>Main content</main>
+    <main>
+        <section id="contact">
+            <form action="https://formdump.codeinstitute.net" id="contact-form" method="POST" target="_blank">
+                <h2>Contact Us/Sign up here</h2>
+                <label for="first-name">First Name</label>
+                <br>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <br>
+                <input type="text" name="last_name" id="last-name" class="text-input" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <br>
+                <input type="email" name="email_address" id="email-address" class="text-input" required>
+                <br>
+                <label for="message">Message Us</label>
+                <br>
+                <input type="text" name="message us" id="message" class="text-input" required>
+                <br>
+                <button type="reset">Reset</button>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
 
     <!--Footer-->
     <footer>

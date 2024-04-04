@@ -105,6 +105,9 @@ main {
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 46px;
+    /* Enable flex properties for child element*/
+    display: flex;
+    flex-direction: column;
     
 }
 /* Meditation */
