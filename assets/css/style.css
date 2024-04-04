@@ -169,7 +169,7 @@ hr {
 }
 
 /* Footer */
-footer { background-color: #3a3a3a;
+footer { background-color: #ffffff;
     padding: 10px 0;
     text-align: center;
 }
@@ -188,6 +188,17 @@ footer { background-color: #3a3a3a;
     padding: 5% 5% 0;
     color:#3a3a3a
 }
+/*Media query for large or landscape phones (570px and above)*/
+@media screen and (min-width: 570px) {
+    #gallery-photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+    
+    
+
+
 
 /* Media Queries */
 /* Tablets & larger (768px and up) */
@@ -220,6 +231,10 @@ footer { background-color: #3a3a3a;
         /* Push main content down to accomodate larger header*/
         margin-top: 35px;
     }
+    /* Gallery */
+    #gallery-photos{
+        column-count: 3;
+    }
 }
 
 /* Larger devices (laptops and desktops, 992px and higher) */
@@ -227,6 +242,10 @@ footer { background-color: #3a3a3a;
     #menu-list a:hover {
         border-bottom: 1px solid #3a3a3a;
 
+    }
+    /* gallery */
+    #gallery-photos {
+        column-count: 4;
     }
 
 }
