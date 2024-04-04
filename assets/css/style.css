@@ -171,6 +171,50 @@ hr {
     line-height: 0;
 }
 
+/* Contact */
+#contact {
+    background-image: url(../images/yoga\ 5.jpg);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+#contact-form {
+    color: #ffffff;
+   
+    width: 100%;
+    position: relative;
+    padding: 10px;
+    top: 50px;
+    
+}
+
+#contact-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+#contact-form input[type="text"], input[type="email"] {
+    width: 250px;
+    border: 2px solid #3a3a3a;
+    border-radius: 5px;
+    height: 30px;
+    margin: 5px 0 20px 0;
+    padding: 0 5px;
+}
+
+#contact-form button [type=reset] {
+    color:#3a3a3a;
+    border: 2px solid #3a3a3a
+
+}
+
+#message {
+    width: 100px;
+    height: 250px;
+    margin: 20px auto;
+    border: 2px solid #3a3a3a;
+}
 /* Footer */
 footer { background-color: #ffffff;
     padding: 10px 0;
@@ -237,6 +281,18 @@ footer { background-color: #ffffff;
     /* Gallery */
     #gallery-photos{
         column-count: 3;
+    }
+    #contact {
+        background-image: url(../images/yoga\ 5.jpg);
+        background-size: cover;
+        background-position: 75%;
+        padding: 20px 10% 0 10%;
+        flex-grow: 1;
+    }
+    #contact-form {
+      color: #ffffff;
+    
+      
     }
 }
 
