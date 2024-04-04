@@ -137,6 +137,24 @@ hr {
     margin: 5px 0;
 }
 
+/* Yoga Class Section*/
+#times {
+    background: url('../images/yoga\ 5.jpg')no-repeat center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times > div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+    /* This will not wrap on screen of less than 400px wide*/
+    flex-basis: 200px;
+    flex-grow: 1;
+    border: 2px solid white;
+}
+
 
 /* Footer */
 footer { background-color: #3a3a3a
