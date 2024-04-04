@@ -114,7 +114,7 @@ main {
 #meditation {
     height: 600px;
     width: 100%;
-    background: url("../images/meditation-image.jpg") no-repeat center center/cover;
+    background: url("../images/meditation-1384758_1280.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -145,7 +145,7 @@ hr {
 
 /* Yoga Class Section*/
 #times {
-    background: url('../images/yoga 5.jpg')no-repeat center/cover;
+    background: url(../images/yoga\ 5.webp) no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
@@ -173,15 +173,13 @@ hr {
 
 /* Contact */
 #contact {
-    background-image: url(../images/yoga\ 5.jpg);
+    background-image: url(../images/yoga\ 5.webp);
     background-size: cover;
     background-position: 75%;
-    padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
 #contact-form {
     color: #ffffff;
-   
     width: 100%;
     position: relative;
     padding: 10px;
@@ -209,11 +207,20 @@ hr {
 
 }
 
-#message {
-    width: 100px;
+#contact-form > message {
+    width: 150px;
     height: 250px;
     margin: 20px auto;
     border: 2px solid #3a3a3a;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#message {
+    height: 150px;
+    width: 250px;
+    border: 2px solid #3a3a3a;
+    border-radius: 5px;
 }
 /* Footer */
 footer { background-color: #ffffff;
@@ -283,7 +290,7 @@ footer { background-color: #ffffff;
         column-count: 3;
     }
     #contact {
-        background-image: url(../images/yoga\ 5.jpg);
+        
         background-size: cover;
         background-position: 75%;
         padding: 20px 10% 0 10%;
@@ -291,8 +298,8 @@ footer { background-color: #ffffff;
     }
     #contact-form {
       color: #ffffff;
+      padding: 30px;
     
-      
     }
 }
 
