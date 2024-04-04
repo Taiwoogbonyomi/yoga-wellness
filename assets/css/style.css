@@ -158,9 +158,13 @@ hr {
     border: 2px solid white;
 }
 
+/* Gallery page */
+#gallery-photos img {
+    width: 100%;
+}
 
 /* Footer */
-footer { background-color: #3a3a3a
+footer { background-color: #3a3a3a;
     padding: 10px 0;
     text-align: center;
 }
