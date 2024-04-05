@@ -4,7 +4,7 @@ Visit the live website [here!] (https://taiwoogbonyomi.github.io/Project-1/)
 
 
 
-This is the website for yoga classes named "Yoga Wellness". It is designed to be functional and responsive on all devices, this helps users to be able to book in their yoga session from anywhere and any size of device.
+This is the website for yoga classes named "Yoga Wellness". It is designed to be functional and responsive on all devices, this helps users to be able to book in their yoga session from anywhere and on any size of device.
 
 ![fully responsive website example image](assets/images/amiresponsive.png)
 
@@ -50,15 +50,16 @@ I used balsamic to design my wireframe
 
 ## Sites and frameworks 
 
-**Github** - I used github for storing my work and for deployment and publishing online.
-**Gitpod** - Used to create,change and merge files and codes.
-**Python** - I used python 3 via terminal to preview my site using a local http server.
-**HTML5** - The core of the site was built with HTML version 5.
-**CSS** - I used css to style the website and define fonts and layout.
-**Font Awesome** - Used to style the the Social Media icons.
-**Google Chrome** - The website was built and tested in google Chrome.
+**Github** - I used github for storing my work and for deployment and publishing online.\
+**Gitpod** - Used to create,change and merge files and codes.\
+**Python** - I used python 3 via terminal to preview my site using a local http server.\
+**HTML5** - The core of the site was built with HTML version 5.\
+**CSS** - I used css to style the website and define fonts and layout.\
+**Font Awesome** - Used to style the the Social Media icons.\
+**Google Chrome** - The website was built and tested in google Chrome.\
 **Favicon Generator Website** - Converted JPG file that I made from the logo using pixabay and converted it into a favicon on website favicon.io\
-**Pixelied** - Used to convert JPG images to WEBP
+**Pixelied** - Used to convert JPG images to WEBP.\
+**Pixabay** - Used to generate all the images used in the gallery section.\
 
 ---
 
@@ -105,3 +106,21 @@ To fork the repository:
 ### W3C Validator
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+
+### Lighthouse
+
+I used Chrome's Lighthouse developer tool to check my websites performance,Below are the final results.
+
+### Home page
+
+
+![alt text](assets/images/home.png)
+
+### Gallery page
+
+![alt text](assets/images/gallery.png)
+
+### Contact page
+
+
+![alt text](assets/images/contact.png)
