@@ -70,7 +70,7 @@ The nav bar features the menu on the header and will help the end users to navig
 
 To maximize compatibility, I converted the original Jpg images to a Webp file using Pixelied. This, in my opinion, should cover all feasible accepted file types across all platforms. 
 
-The favicon was generated in Pixabay and exported as.ico files for compatibility. 
+The favicon was generated from images downloaded from pixabay and exported as.ico files for compatibility. 
 
 
 
@@ -172,16 +172,16 @@ Each devices were tested on * Google chrome * Mozilla Firefox and * Safari brows
 ---
 ### Credits
 
-The Loverunning walkthrough project where I got all my guidelines.
+* The Loverunning walkthrough project where I got all my guidelines.
 
-Pixabay.com, where I got all the images used for my website.
+* Pixabay.com, where I got all the images used for my website.
 
-Favicon.io generator website.
+* Favicon.io generator website.
 
-Font awesome where I got the Icons used in my website.
+* Font awesome where I got the Icons used in my website.
 
-pixelied.com, which I used in converting the JPG images to WEBP.
+* pixelied.com, which I used in converting the JPG images to WEBP.
 
-Ui.dev which I used for amiresponsive on all screen size.
+* Ui.dev which I used for am i responsive on all screen size.
 
-health.harvard.edu where I got the benefits of yoga.
+* health.harvard.edu where I got the benefits of yoga.
