@@ -6,6 +6,34 @@ Visit the live website [here!] (https://taiwoogbonyomi.github.io/Project-1/)
 
 This is the website for yoga classes named "Yoga Wellness". It is designed to be functional and responsive on all devices, this helps users to be able to book in their yoga session from anywhere and on any size of device.
 
+---
+<details>
+<summary>Click here for Table of Contents</summary>
+
+[Responsive Screenshots](#responsive-screenshot)
+
+[Target Audience](#target-audience)
+
+[General Features](#general-features)
+
+[Wireframe](#wireframe)
+
+[Sites and Frameworks](#sites-and-frameworks)
+
+[languages](#languages)
+
+[Deployment](#deployment)
+
+[Testing](#testing)
+
+[Credits](#credits)
+</details>
+
+
+
+## Responsive Screenshot
+
+Below is the screenshot of the responsive website, created using Am I Responsive.
 ![fully responsive website example image](assets/images/amiresponsive.png)
 
 
@@ -17,7 +45,6 @@ This is the website for yoga classes named "Yoga Wellness". It is designed to be
 The target audience are individuals who do yoga for spirituality, physical fitness, stress relief or a mix of these motivations.
 
 ---
-## CONTENTS
 
 ### General features
 
@@ -43,7 +70,7 @@ The nav bar features the menu on the header and will help the end users to navig
 
 To maximize compatibility, I converted the original Jpg images to a Webp file using Pixelied. This, in my opinion, should cover all feasible accepted file types across all platforms. 
 
-The favicon was generated in GIMP 2.10.36 and exported as.ico files for compatibility. 
+The favicon was generated in Pixabay and exported as.ico files for compatibility. 
 
 
 
@@ -53,9 +80,9 @@ I used the google fonts Roboto-Condensed and Ubuntu-Condensed because they are p
 
 
 
-### wireframe
+### Wireframe
 
-I used balsamic to design my wireframe
+I used balsamic to design my wireframe. Below is the screenshot of mobile design.
 ![alt text](assets/images/Yoga-wellness.png)
 
 ---
@@ -92,7 +119,7 @@ My website was deployed on gitpages.
 #### How to Clone
 
 1. Log into your account on github
-2. Go to the repository of this project /taiwoogbonyomi/project1/
+2. Go to the repository of this project /taiwoogbonyomi/Project-1/
 3. Click on the code button, and copy your preferred clone link.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
@@ -103,7 +130,7 @@ My website was deployed on gitpages.
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, taiwoogbonyomi/project1
+2. Go to the repository for this project, taiwoogbonyomi/Project-1
 3. Click the Fork button in the top right corner.
 
 
