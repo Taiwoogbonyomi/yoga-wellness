@@ -137,6 +137,7 @@ I used Chrome's Lighthouse developer tool to check my websites performance,Below
 
 ![alt text](assets/images/contact.png)
 
+---
 ### Website Full Testing
 
 Full testing was performed on different devices:
@@ -149,3 +150,19 @@ Full testing was performed on different devices:
 
 Each devices were tested on * Google chrome * Mozilla Firefox and * Safari browser
 
+---
+### Credits
+
+The Loverunning walkthrough project where I got all my guidelines.
+
+Pixabay.com, where I got all the images used for my website.
+
+Favicon.io generator website.
+
+Font awesome where I got the Icons used in my website.
+
+pixelied.com, which I used in converting the JPG images to WEBP.
+
+Ui.dev which I used for amiresponsive on all screen size.
+
+health.harvard.edu where I got the benefits of yoga.
