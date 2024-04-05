@@ -84,6 +84,7 @@ I used the google fonts Roboto-Condensed and Ubuntu-Condensed because they are p
 
 I used balsamic to design my wireframe. Below is the screenshot of mobile design.
 ![alt text](assets/images/Yoga-wellness.png)
+![alt text](assets/images/YOGA-Wellness(2).png)
 
 ---
 
