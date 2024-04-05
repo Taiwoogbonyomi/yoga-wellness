@@ -48,5 +48,60 @@ I used balsamic to design my wireframe
 
 ---
 
+## Sites and frameworks 
+
+**Github** - I used github for storing my work and for deployment and publishing online.
+**Gitpod** - Used to create,change and merge files and codes.
+**Python** - I used python 3 via terminal to preview my site using a local http server.
+**HTML5** - The core of the site was built with HTML version 5.
+**CSS** - I used css to style the website and define fonts and layout.
+**Font Awesome** - Used to style the the Social Media icons.
+**Google Chrome** - The website was built and tested in google Chrome.
+**Favicon Generator Website** - Converted JPG file that I made from the logo using pixabay and converted it into a favicon on website favicon.io\
+**Pixelied** - Used to convert JPG images to WEBP
+
+---
+
+### Languages 
+
+HTML, CSS
+
+---
+
+## Deployment 
+
+### Deployment
+
+My website was deployed on gitpages.
+
+### Local Development
+
+#### How to Clone
+
+1. Log into your account on github
+2. Go to the repository of this project /taiwoogbonyomi/project1/
+3. Click on the code button, and copy your preferred clone link.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
 
 
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, taiwoogbonyomi/project1
+3. Click the Fork button in the top right corner.
+
+
+## Testing
+## Manual Testing
+
+### Jigsaw CSS Validator
+
+[Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the css code
+![alt text](assets/images/jigsaw.png) - Pass
+
+### W3C Validator
+
+[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
