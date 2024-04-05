@@ -121,23 +121,9 @@ To fork the repository:
 
 ### Lighthouse
 
-I used Chrome's Lighthouse developer tool to check my websites performance,Below are the final results.
-
-### Home page
+I used Chrome's Lighthouse developer tool to check my websites performance and the performance is good.
 
 
-![alt text](assets/images/home.png)
-
-### Gallery page
-
-![alt text](assets/images/gallery.png)
-
-### Contact page
-
-
-![alt text](assets/images/contact.png)
-
----
 ### Website Full Testing
 
 Full testing was performed on different devices:
