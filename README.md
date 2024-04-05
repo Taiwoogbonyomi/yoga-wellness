@@ -161,8 +161,14 @@ Full testing was performed on different devices:
     * Iphone 14
     * Samsung Galaxy
 
-Each devices were tested on * Google chrome * Mozilla Firefox and * Safari browser
+Each devices were tested on * Google chrome * Mozilla Firefox and * Safari browser.
 
+### Bugs
+
+* Fixed bug where the header was covering the main content after adding the meditation image.
+* Updated the background image to cover the full screen of the devices.
+* Fixed a bug where the footer was not showing the social media icon. This was fixed by changing the dark background-color that overshadowed the social media icons.
+* Fixed a bug where the form was not displaying well on the mobile device.
 ---
 ### Credits
 
