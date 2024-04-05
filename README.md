@@ -94,7 +94,7 @@ I used balsamic to design my wireframe. Below is the screenshot of mobile design
 **Python** - I used python 3 via terminal to preview my site using a local http server.\
 **HTML5** - The core of the site was built with HTML version 5.\
 **CSS** - I used css to style the website and define fonts and layout.\
-**Font Awesome** - Used to style the the Social Media icons.\
+**Font Awesome** - Used to add icon to the Social Media links.\
 **Google Chrome** - The website was built and tested in google Chrome.\
 **Favicon Generator Website** - Converted JPG file that I made from the logo using pixabay and converted it into a favicon on website favicon.io\
 **Pixelied** - Used to convert JPG images to WEBP.\
@@ -178,10 +178,10 @@ Each devices were tested on * Google chrome * Mozilla Firefox and * Safari brows
 
 * Favicon.io generator website.
 
-* Font awesome where I got the Icons used in my website.
+* Font awesome where I got the Icons used in the social media links and the menu bar.
 
 * pixelied.com, which I used in converting the JPG images to WEBP.
 
-* Ui.dev which I used for am i responsive on all screen size.
+* Ui.dev Am I Responsive which I used for create a responsive screenshot of all screen sizes.
 
 * health.harvard.edu where I got the benefits of yoga.
