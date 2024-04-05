@@ -83,7 +83,7 @@ I used the google fonts Roboto-Condensed and Ubuntu-Condensed because they are p
 ### Wireframe
 
 I used balsamic to design my wireframe. Below is the screenshot of mobile/ tablet and desktop browser design.
-![alt text](assets/images/Yoga-wellness.png) ![alt text](assets/images/yoga-wellness-desktop.png)
+![alt text](assets/images/Yoga-wellness.png) ![alt text](assets/images/Yoga-wellness-desktop.png)
 
 
 ---
