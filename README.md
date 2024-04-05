@@ -21,6 +21,18 @@ The target audience are individuals who do yoga for spirituality, physical fitne
 
 ### General features
 
+### Home Page
+
+The home page features the benefits of yoga and meditation and as a form of fitness. It also features the yoga class times, days and venues.
+
+### Gallery Page
+
+This page has different photos of people engaging in yoga as a form of meditation and fitness excercise.
+
+### Contact page
+
+The contact page consist of a sign up and enquiry form for yoga classes.
+
 ### Footer with social media icons
 
 I used font awesome to design the icon of the 4 social media icons found on the footer of the website.
@@ -33,13 +45,13 @@ To maximize compatibility, I converted the original Jpg images to a Webp file us
 
 The favicon was generated in GIMP 2.10.36 and exported as.ico files for compatibility. 
 
----
+
 
 ### Fonts
 
 I used the google fonts Roboto-Condensed and Ubuntu-Condensed because they are professional fonts used by web designers for technical layouts and economical use of space in layouts.
 
----
+
 
 ### wireframe
 
@@ -59,7 +71,7 @@ I used balsamic to design my wireframe
 **Google Chrome** - The website was built and tested in google Chrome.\
 **Favicon Generator Website** - Converted JPG file that I made from the logo using pixabay and converted it into a favicon on website favicon.io\
 **Pixelied** - Used to convert JPG images to WEBP.\
-**Pixabay** - Used to generate all the images used in the gallery section.\
+**Pixabay** - Used to generate all the images used in the gallery section.
 
 ---
 
@@ -124,3 +136,16 @@ I used Chrome's Lighthouse developer tool to check my websites performance,Below
 
 
 ![alt text](assets/images/contact.png)
+
+### Website Full Testing
+
+Full testing was performed on different devices:
+
+* Laptop
+    * HP
+* Mobile Phones
+    * Iphone 14
+    * Samsung Galaxy
+
+Each devices were tested on * Google chrome * Mozilla Firefox and * Safari browser
+
