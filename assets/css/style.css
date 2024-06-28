@@ -193,7 +193,7 @@ hr {
     margin-bottom: 20px;
 }
 
-#contact-form input[type="text"], #contact-form input[type="email"] {
+#contact-form input[type="text"], #contact-form input[type="email"], #contact-form textarea {
     width: 250px;
     border: 2px solid #3a3a3a;
     border-radius: 5px;
@@ -202,34 +202,21 @@ hr {
     padding: 0 5px;
 }
 
-#contact-form button [type=reset] {
+#contact-form textarea {
+    height: 150px;
+}
+
+#contact-form button[type="submit"] {
+    width: 50px;
+    font-size: 100%;
+    border-radius: 5px;
+}    
+
+#contact-form button[type=reset] {
     color:#3a3a3a;
     border: 2px solid #3a3a3a
 
 }
-
-#contact-form > message {
-    width: 150px;
-    height: 250px;
-    margin: 20px auto;
-    border: 2px solid #3a3a3a;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-#message {
-    height: 150px;
-    width: 250px;
-    border: 2px solid #3a3a3a;
-    border-radius: 5px;
-}
-
-#contact-form button {
-    width: 50px;
-    font-size: 100%;
-    border-radius: 5px;
-}
-
 
 /* Footer */
 footer { background-color: #c6c6c2;
@@ -259,9 +246,6 @@ footer { background-color: #c6c6c2;
     }
 }
     
-    
-
-
 
 /* Media Queries */
 /* Tablets & larger (768px and up) */
@@ -288,7 +272,6 @@ footer { background-color: #c6c6c2;
         display: none;
     }
 
-     
 
     main {
         /* Push main content down to accomodate larger header*/
