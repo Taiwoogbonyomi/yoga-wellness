@@ -1,14 +1,30 @@
 # YOGA WELLNESS
 
+Yoga Wellness is a wellness center located in Portlaoise, Ireland. The website provides information about yoga classes, meditation sessions, and other wellness activities. It includes a home page, a gallery page, and a contact page.
+
 Visit the live website [here!] (https://taiwoogbonyomi.github.io/Project-1/)
 
-
-
-This is the website for yoga classes named "Yoga Wellness". It is designed to be functional and responsive on all devices, this helps users to be able to book in their yoga session from anywhere and on any size of device.
 
 ---
 <details>
 <summary>Click here for Table of Contents</summary>
+
+# contents
+
+* [**User Experience UX**](<#user-experience-ux>)
+    *  [User Stories](<#user-stories>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
+    *  [Typography](<#typography>)
+    *  [Colour Scheme](<#colour-scheme>)
+
+* [**Features**](<#features>)
+    * [**Home**](<#navigation-menu>)
+         * [Navigation menu](<#navigation-menu>)
+         * [Gallery](<#gallery>)
+         * [contact-us](<#about-us>)
+         * [Footer](<#footer>)
 
 [Responsive Screenshots](#responsive-screenshot)
 
@@ -36,9 +52,22 @@ This is the website for yoga classes named "Yoga Wellness". It is designed to be
 Below is the screenshot of the responsive website, created using Am I Responsive.
 ![fully responsive website example image](assets/images/amiresponsive.png)
 
-
-
 ---
+
+
+# User Experience (UX)
+
+## User Stories
+
+* As a user, I want to be able to navigate through the whole site without any glitch.
+* As a user, I want to be able to understand the purpose of the site upon loading the site.
+* As a user, I want to learn about Yoga Wellness so I can understand what services they offer.
+* As a user, I want to view images of yoga and meditation sessions, so I can see what to expect.
+* As a user, I want to contact Yoga Wellness, so I can inquire about classes or send a message.
+* As a user, I want to easily navigate the website on my mobile device, so I can access information on the go.
+* As a user, I want to follow Yoga Wellness on social media, so I can stay updated with their latest activities and news.
+
+[Back to top](<#contents>)
 
 ## TARGET AUDIENCE
 
@@ -46,7 +75,21 @@ The target audience are individuals who do yoga for spirituality, physical fitne
 
 ---
 
-### General features
+
+### Wireframe
+
+The wireframes Yoga Wellness were produced in [Balsamiq](https://balsamiq.com).. Below is the screenshot of mobile/ tablet and desktop browser design.
+
+![Mobile wireframe image](assets/images/Yoga-wellness.png)
+
+![Desktop wireframe image](assets/images/yoga-wellness-desktop.png)
+
+[Back to top](<#contents>)
+
+
+## Site Structure
+
+Yoga Wellness website has three pages. The [home page](index.html) is the default loading page, [gallery](gallery.html) and [contact](contact.html) pages are all accessible primarily from the navigation menu.
 
 ### Home Page
 
@@ -60,17 +103,48 @@ This page has different photos of people engaging in yoga as a form of meditatio
 
 The contact page consist of a sign up and enquiry form for yoga classes.
 
-### Footer with social media icons
+[Back to top](<#contents>)
 
-I used font awesome to design the icon of the 4 social media icons found on the footer of the website.
+## Design Choices
 
-### Nav bar
+ * ### Typography 
 
-The nav bar features the menu on the header and will help the end users to navigate easily while on the site.A smooth transition dropdown menu enhances the user experience and adds visual appeal, hence the use of bar-icon from font awesome to design the menu bar. 
+ The typography for the Yoga Wellness website aims to create a clean, modern, and welcoming aesthetic that enhances readability and conveys a sense of calm and professionalism. The chosen fonts are from Google Fonts, ensuring accessibility and ease of use.  
+* Roboto Condensed was used for general text, body content and smaller headings. This font is sans serif which provides a modern and clean look, it is highly readable and versatile.
+* Ubuntu Condensed was used for the main headings. It has a unique and slightly condensed appearance which helps headings stand out while maintaining clean and modern look. 
 
-To maximize compatibility, I converted the original Jpg images to a Webp file using Pixelied. This, in my opinion, should cover all feasible accepted file types across all platforms. 
+# Features
 
-The favicon was generated from images downloaded from pixabay and exported as.ico files for compatibility. 
+The Yoga Wellness website is designed to offer a comprehensive and user-friendly experience for individuals interested in yoga, meditation, and overall wellness. Below is a detailed overview of the key features available on the website.
+
+## Exisiting Features
+    * ### Navigation bar
+    
+    * The nav bar features the menu on the header and will help the end users to navigate easily while on the site.A smooth 
+      transition dropdown menu enhances the user experience and adds visual appeal, hence the use of bar-icon from font awesome to design the menu bar.
+
+![Navigation bar image](assets/images/nav-bar.png)
+[Back to top](<#contents>)
+
+    * ### Gallery
+
+    * The gallery contains a collection of images showcasing various yoga and meditation sessions, providing visitors with a visual understanding of what to expect. The gallery adjusts to different screen sizes, ensuring a seamless experience across devices.
+
+![Gallery images](assets/images/gallery%20(2).png)
+[Back to top](<#contents>)
+
+
+    * ### Contact Us
+
+    * Allows users to get in touch or sign up for newsletters and updates. it contains a clearly marked required fields to ensure necessary information is collected and a soothing background image to maintain the website's aesthetic and theme.
+
+
+![Contact Us](assets/images/contact-us.png)
+[Back to top](<#contents>)     
+
+    * ### Footer
+
+    * Contains links to social media platforms such as Facebook, Instagram, Twitter, TikTok, and YouTube to help user dive more into what Yoga Wellness is all about. Each social media link is labeled for accessibility purposes, informing users that the link opens in a new tab.
 
 
 
