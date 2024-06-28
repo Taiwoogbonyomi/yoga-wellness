@@ -36,6 +36,7 @@ h1, h2, h3 {
     color:yellowgreen;
     font-size: 80%;
 }
+
 /* Header */
 header {
     background-color: #f9f9f8;
@@ -48,8 +49,6 @@ header {
     justify-content: space-between;
     align-items: baseline;
     
-    
-
 }
 
 header a {
@@ -72,7 +71,6 @@ header a {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
-
 
 
 /* Nav bar styles */
@@ -101,9 +99,6 @@ nav {
     font-size: 2rem;
 }
 
-/*#logo {
-    background-image: ;
-}*/
 
 /* Main content */
 main {
@@ -151,7 +146,7 @@ hr {
 
 /* Yoga Class Section*/
 #times {
-    background: url(../images/yoga\ 5.webp) no-repeat center/cover;
+    background: url(../images/yoga-5.webp) no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
