@@ -80,7 +80,7 @@ The target audience are individuals who do yoga for spirituality, physical fitne
 
 The wireframes Yoga Wellness were produced in [Balsamiq](https://balsamiq.com).. Below is the screenshot of mobile/ tablet and desktop browser design.
 
-![Mobile wireframe image](assets/images/Yoga-wellness.png)
+![Mobile wireframe image](assets/images/yoga-wellness.png)
 
 ![Desktop wireframe image](assets/images/yoga-wellness-desktop.png)
 
@@ -107,73 +107,79 @@ The contact page consist of a sign up and enquiry form for yoga classes.
 
 ## Design Choices
 
- * ### Typography 
+
+* ### Typography 
 
  The typography for the Yoga Wellness website aims to create a clean, modern, and welcoming aesthetic that enhances readability and conveys a sense of calm and professionalism. The chosen fonts are from Google Fonts, ensuring accessibility and ease of use.  
 * Roboto Condensed was used for general text, body content and smaller headings. This font is sans serif which provides a modern and clean look, it is highly readable and versatile.
 * Ubuntu Condensed was used for the main headings. It has a unique and slightly condensed appearance which helps headings stand out while maintaining clean and modern look. 
 
+
 # Features
 
 The Yoga Wellness website is designed to offer a comprehensive and user-friendly experience for individuals interested in yoga, meditation, and overall wellness. Below is a detailed overview of the key features available on the website.
 
+
 ## Exisiting Features
-    * ### Navigation bar
+
+* ### Navigation bar
     
     * The nav bar features the menu on the header and will help the end users to navigate easily while on the site.A smooth 
       transition dropdown menu enhances the user experience and adds visual appeal, hence the use of bar-icon from font awesome to design the menu bar.
 
+
+
 ![Navigation bar image](assets/images/nav-bar.png)
 [Back to top](<#contents>)
 
-    * ### Gallery
+
+* ### Gallery
 
     * The gallery contains a collection of images showcasing various yoga and meditation sessions, providing visitors with a visual understanding of what to expect. The gallery adjusts to different screen sizes, ensuring a seamless experience across devices.
+
+
 
 ![Gallery images](assets/images/gallery%20(2).png)
 [Back to top](<#contents>)
 
 
-    * ### Contact Us
+* ### Contact Us
 
     * Allows users to get in touch or sign up for newsletters and updates. it contains a clearly marked required fields to ensure necessary information is collected and a soothing background image to maintain the website's aesthetic and theme.
+
 
 
 ![Contact Us](assets/images/contact-us.png)
 [Back to top](<#contents>)     
 
-    * ### Footer
+
+* ### Footer
 
     * Contains links to social media platforms such as Facebook, Instagram, Twitter, TikTok, and YouTube to help user dive more into what Yoga Wellness is all about. Each social media link is labeled for accessibility purposes, informing users that the link opens in a new tab.
 
 
-
-### Fonts
-
-I used the google fonts Roboto-Condensed and Ubuntu-Condensed because they are professional fonts used by web designers for technical layouts and economical use of space in layouts.
+![Footer](assets/images/footer.png)
+[Back to top](<#contents>)
 
 
+## Future Features
 
-### Wireframe
+* Online class and workshop : Embedding live streams or recorded sessions directly on the website for users who cannot attend in person or prefer practicing at home. 
+* User Accounts and Profiles : Providing a personalized dashboard where users can view their class history, upcoming sessions, and personalized recommendations.
+* E-commerce for Wellness Products : Introducing an e-commerce section where users can purchase yoga mats, meditation cushions, wellness books, and other related products.
 
-I used balsamic to design my wireframe. Below is the screenshot of mobile/ tablet and desktop browser design.
-![alt text](assets/images/Yoga-wellness.png) ![alt text](assets/images/Yoga-wellness desktop.png)
+[Back to top](<#contents>)
 
 
 ---
 
 ## Sites and frameworks 
 
-**Github** - I used github for storing my work and for deployment and publishing online.\
-**Gitpod** - Used to create,change and merge files and codes.\
+* [Github](https://github.com/) - used for hosting, deployment and publishing the project online.\
+* [Gitpod](https://www.gitpod.io/#get-started)- used to create,change and merge files and codes.\
 **Python** - I used python 3 via terminal to preview my site using a local http server.\
-**HTML5** - The core of the site was built with HTML version 5.\
-**CSS** - I used css to style the website and define fonts and layout.\
-**Font Awesome** - Used to add icon to the Social Media links.\
-**Google Chrome** - The website was built and tested in google Chrome.\
-**Favicon Generator Website** - Converted JPG file that I made from the logo using pixabay and converted it into a favicon on website favicon.io\
-**Pixelied** - Used to convert JPG images to WEBP.\
-**Pixabay** - Used to generate all the images used in the gallery section.
+* [HTML5](https://html.spec.whatwg.org/) - The core of the site was built with HTML version 5 .\
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - used css to style the website and define fonts and layout .\
 
 ---
 
@@ -187,7 +193,12 @@ HTML, CSS
 
 ### Deployment
 
-My website was deployed on gitpages.
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ### Local Development
 
@@ -236,27 +247,35 @@ Full testing was performed on different devices:
     * Iphone 14
     * Samsung Galaxy
 
-Each devices were tested on * Google chrome * Mozilla Firefox and * Safari browser.
+Each devices were tested on 
+* Google chrome 
+* Mozilla Firefox  
+* Safari browser.
+
+[Back to top](<#contents>)
 
 ### Bugs
 
-* Fixed bug where the header was covering the main content after adding the meditation image.
+* Fixed bug where the header was covering the main content after adding the meditation image, This was fixed by changing the position of the image from absolute to relative .
 * Updated the background image to cover the full screen of the devices.
 * Fixed a bug where the footer was not showing the social media icon. This was fixed by changing the dark background-color that overshadowed the social media icons.
-* Fixed a bug where the form was not displaying well on the mobile device.
+* Fixed a bug where the form was not displaying well on the mobile device, This was fixed by modifying the padding.
 ---
+
+[Back to top](<#contents>)
+
+
 ### Credits
 
+* [Font Awesome](https://fontawesome.com/) - Used to add icon to the Social Media links .\
+* [Google Chrome](https://www.google.com/chrome/) - The website was built and tested in google Chrome.\
+* [Favicon Generator Website](https://favicon.io/favicon-generator/) - Converted JPG file gotten from pixabay into a favicon \
+* [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) - Used to convert JPG images to WEBP .\
+* [Pixabay](https://pixabay.com/illustrations/) - Used to generate all the images used in home page and the gallery section .
+* [Google Chrome](https://www.google.com/chrome/) - The website was built and tested in google Chrome .\
+* [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) - Used to convert JPG images to WEBP .\
+* [AmIResponsive]https://ui.dev/amiresponsive - which I used for create a responsive screenshot of all screen sizes.
+* [Harvard Health](https://www.health.harvard.edu/staying-healthy/yoga-benefits-beyond-the-mat) where I got the benefits of yoga.
 * The Loverunning walkthrough project where I got all my guidelines.
 
-* Pixabay.com, where I got all the images used for my website.
-
-* Favicon.io generator website.
-
-* Font awesome where I got the Icons used in the social media links and the menu bar.
-
-* pixelied.com, which I used in converting the JPG images to WEBP.
-
-* Ui.dev Am I Responsive which I used for create a responsive screenshot of all screen sizes.
-
-* health.harvard.edu where I got the benefits of yoga.
+[Back to top](<#contents>)
