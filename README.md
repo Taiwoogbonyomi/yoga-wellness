@@ -33,8 +33,9 @@ Welcome to your wellness journey through <a href="https://taiwoogbonyomi.github.
 
 
 ## Responsive Screenshot
-
 Below is the screenshot of the responsive website, created using Am I Responsive.
+
+
 ![fully responsive website example image](assets/images/amiresponsive.png)
 
 ---
@@ -56,7 +57,7 @@ Below is the screenshot of the responsive website, created using Am I Responsive
 
 ### Target Audience
 
-The target audience is designed to cater to a diverse audience interested in yoga, wellness, holistic health and individuals who do yoga for spirituality, physical fitness, stress relief or a mix of these motivations.
+The Yoga Wellness is designed to cater to a diverse audience interested in yoga, wellness, holistic health and individuals who do yoga for spirituality, physical fitness, stress relief or a mix of these motivations.
 
 ---
 
@@ -78,7 +79,7 @@ Yoga Wellness website has three pages. The [home page](index.html) is the defaul
 
 ### Home Page
 
-The home page features the benefits of yoga and meditation and as a form of fitness. It also features the yoga class times, days and venues.
+The home page features the benefits of yoga and meditation as a form of fitness. It also features the yoga class times, days and venues.
 
 ### Gallery Page
 
@@ -109,7 +110,7 @@ The contact page consist of a sign up and enquiry form for yoga classes.
     * Transparent black color is used for overlays, such as the yoga class section background, to provide depth and focus without being opaque, maintaining a sense of openness.
 
 
-![Color Pallet image](assets/images/color-pallet.png)
+![Color Pallet image](assets/images/color-pallet%20.png)
 
 
 # Features
