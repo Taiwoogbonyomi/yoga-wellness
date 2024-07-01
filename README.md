@@ -5,14 +5,12 @@ Yoga Wellness is a wellness center located in Portlaoise, Ireland. The website p
 Visit the live website [here!] (https://taiwoogbonyomi.github.io/Project-1/)
 
 
----
-<details>
-<summary>Click here for Table of Contents</summary>
 
-# contents
+# Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
     *  [User Stories](<#user-stories>)
+    *  [Target Audience](<#target-audience>)
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
@@ -23,28 +21,16 @@ Visit the live website [here!] (https://taiwoogbonyomi.github.io/Project-1/)
     * [**Home**](<#navigation-menu>)
          * [Navigation menu](<#navigation-menu>)
          * [Gallery](<#gallery>)
-         * [contact-us](<#about-us>)
+         * [Contact-us](<#about-us>)
          * [Footer](<#footer>)
-
-[Responsive Screenshots](#responsive-screenshot)
-
-[Target Audience](#target-audience)
-
-[General Features](#general-features)
-
-[Wireframe](#wireframe)
-
-[Sites and Frameworks](#sites-and-frameworks)
-
-[languages](#languages)
-
-[Deployment](#deployment)
-
-[Testing](#testing)
-
-[Credits](#credits)
-</details>
-
+    *  [**Future Features**](<#future-features>)
+* [**Technologies Used**](<#technologies-used>)
+    * [**Languages**](<#languages>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Bugs**](<bugs>)
+* [**Credits**](<#credits>)
+*  [**Acknowledgements**](<#acknowledgements>)
 
 
 ## Responsive Screenshot
@@ -53,7 +39,7 @@ Below is the screenshot of the responsive website, created using Am I Responsive
 ![fully responsive website example image](assets/images/amiresponsive.png)
 
 ---
-
+[Back to top](<#contents>)
 
 # User Experience (UX)
 
@@ -69,7 +55,7 @@ Below is the screenshot of the responsive website, created using Am I Responsive
 
 [Back to top](<#contents>)
 
-## TARGET AUDIENCE
+### Target Audience
 
 The target audience are individuals who do yoga for spirituality, physical fitness, stress relief or a mix of these motivations.
 
@@ -78,7 +64,7 @@ The target audience are individuals who do yoga for spirituality, physical fitne
 
 ### Wireframe
 
-The wireframes Yoga Wellness were produced in [Balsamiq](https://balsamiq.com).. Below is the screenshot of mobile/ tablet and desktop browser design.
+The wireframes for Yoga Wellness were produced in [Balsamiq](https://balsamiq.com).. Below is the screenshot of mobile/ tablet and desktop browser design.
 
 ![Mobile wireframe image](assets/images/yoga-wellness.png)
 
@@ -110,9 +96,21 @@ The contact page consist of a sign up and enquiry form for yoga classes.
 
 * ### Typography 
 
- The typography for the Yoga Wellness website aims to create a clean, modern, and welcoming aesthetic that enhances readability and conveys a sense of calm and professionalism. The chosen fonts are from Google Fonts, ensuring accessibility and ease of use.  
-* Roboto Condensed was used for general text, body content and smaller headings. This font is sans serif which provides a modern and clean look, it is highly readable and versatile.
-* Ubuntu Condensed was used for the main headings. It has a unique and slightly condensed appearance which helps headings stand out while maintaining clean and modern look. 
+    The typography for the Yoga Wellness website aims to create a clean, modern, and welcoming aesthetic that enhances readability and conveys a sense of calm and professionalism. The chosen fonts are from Google Fonts, ensuring accessibility and ease of use.  
+    * Roboto Condensed was used for general text, body content and smaller headings. This font is sans serif which provides a modern and clean look, it is highly readable and versatile.
+    * Ubuntu Condensed was used for the main headings. It has a unique and slightly condensed appearance which helps headings stand out while maintaining clean and modern look. 
+
+* ### Color Scheme
+    The color palette for the Yoga Wellness website is chosen to evoke feelings of calm, balance, and natural beauty. The colors are inspired by earthy tones and natural elements, reflecting the themes of wellness, meditation, and yoga.
+    * Earthy brown color is used for headers and highlights to provide a sense of grounding and stability. It evokes natural elements and connects with the essence of yoga.
+    * Deep gray color is used for the main body text, providing a neutral and calming backdrop that is easy on the eyes, ensuring readability and a clean look.
+    * Light gray color is used for the background of various sections, creating a soft and inviting canvas that contrasts gently with the primary colors without being too stark.
+    * Yellow-green color is used to indicate required fields and small accents, adding a touch of vibrancy and emphasizing important areas in forms and interactions.
+    * Soft white color is used for form backgrounds and buttons to create a fresh and simple look, ensuring that these elements stand out without overwhelming the user.
+    * Transparent black color is used for overlays, such as the yoga class section background, to provide depth and focus without being opaque, maintaining a sense of openness.
+
+
+![Color Pallet image](assets/images/color-pallet.png)
 
 
 # Features
@@ -120,7 +118,7 @@ The contact page consist of a sign up and enquiry form for yoga classes.
 The Yoga Wellness website is designed to offer a comprehensive and user-friendly experience for individuals interested in yoga, meditation, and overall wellness. Below is a detailed overview of the key features available on the website.
 
 
-## Exisiting Features
+## Existing Features
 
 * ### Navigation bar
     
@@ -173,15 +171,16 @@ The Yoga Wellness website is designed to offer a comprehensive and user-friendly
 
 ---
 
-## Sites and frameworks 
+## Technologies Used
 
-* [Github](https://github.com/) - used for hosting, deployment and publishing the project online.\
-* [Gitpod](https://www.gitpod.io/#get-started)- used to create,change and merge files and codes.\
-**Python** - I used python 3 via terminal to preview my site using a local http server.\
-* [HTML5](https://html.spec.whatwg.org/) - The core of the site was built with HTML version 5 .\
-* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - used css to style the website and define fonts and layout .\
+* [Github](https://github.com/) - used for hosting, deployment and publishing the project online.
+* [Gitpod](https://www.gitpod.io/#get-started)- used to create,change and merge files and codes.
+* [HTML5](https://html.spec.whatwg.org/) - The core of the site was built with HTML version 5 .
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - used css to style the website and define fonts and layout. 
+* **Python** - I used python 3 via terminal to preview my site using a local http server.
 
 ---
+[Back to top](<#contents>)
 
 ### Languages 
 
@@ -219,6 +218,7 @@ To fork the repository:
 2. Go to the repository for this project, taiwoogbonyomi/Project-1
 3. Click the Fork button in the top right corner.
 
+[Back to top](<#contents>)
 
 ## Testing
 ## Manual Testing
@@ -267,14 +267,14 @@ Each devices were tested on
 
 ### Credits
 
-* [Font Awesome](https://fontawesome.com/) - Used to add icon to the Social Media links .\
-* [Google Chrome](https://www.google.com/chrome/) - The website was built and tested in google Chrome.\
-* [Favicon Generator Website](https://favicon.io/favicon-generator/) - Converted JPG file gotten from pixabay into a favicon \
-* [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) - Used to convert JPG images to WEBP .\
+* [Font Awesome](https://fontawesome.com/) - Used to add icon to the Social Media links .
+* [Google Chrome](https://www.google.com/chrome/) - The website was built and tested in google Chrome.
+* [Favicon Generator Website](https://favicon.io/favicon-generator/) - Converted JPG file gotten from pixabay into a favicon 
+* [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) - Used to convert JPG images to WEBP .
 * [Pixabay](https://pixabay.com/illustrations/) - Used to generate all the images used in home page and the gallery section .
-* [Google Chrome](https://www.google.com/chrome/) - The website was built and tested in google Chrome .\
-* [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) - Used to convert JPG images to WEBP .\
-* [AmIResponsive]https://ui.dev/amiresponsive - which I used for create a responsive screenshot of all screen sizes.
+* [Google Chrome](https://www.google.com/chrome/) - The website was built and tested in google Chrome .
+* [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) - Used to convert JPG images to WEBP .
+* [AmIResponsive](https://ui.dev/amiresponsive) - which I used for create a responsive screenshot of all screen sizes.
 * [Harvard Health](https://www.health.harvard.edu/staying-healthy/yoga-benefits-beyond-the-mat) where I got the benefits of yoga.
 * The Loverunning walkthrough project where I got all my guidelines.
 
