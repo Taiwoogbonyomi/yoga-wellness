@@ -2,8 +2,7 @@
 
 Yoga Wellness is a wellness center located in Portlaoise, Ireland. The website provides information about yoga classes, meditation sessions, and other wellness activities. It includes a home page, a gallery page, and a contact page.
 
-Visit the live website [here!] (https://taiwoogbonyomi.github.io/Project-1/)
-
+Welcome to your wellness journey through <a href="https://taiwoogbonyomi.github.io/Project-1/index.html" target="_blank" rel="noopener">Yoga Wellness</a>
 
 
 # Contents
@@ -57,7 +56,7 @@ Below is the screenshot of the responsive website, created using Am I Responsive
 
 ### Target Audience
 
-The target audience are individuals who do yoga for spirituality, physical fitness, stress relief or a mix of these motivations.
+The target audience is designed to cater to a diverse audience interested in yoga, wellness, holistic health and individuals who do yoga for spirituality, physical fitness, stress relief or a mix of these motivations.
 
 ---
 
@@ -220,21 +219,33 @@ To fork the repository:
 
 [Back to top](<#contents>)
 
+
 ## Testing
-## Manual Testing
+## Code Validation
+The Yoga Wellness website has been throughly tested. All the code has been run through the [W3C html Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the gallery page. After a fix and retest, no errors were returned for both. 
 
-### Jigsaw CSS Validator
+* Home page
 
-[Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the css code
-![alt text](assets/images/jigsaw.png) - Pass
+![W3C Validator test result](assets/images/w3ctesting.png)
 
-### W3C Validator
+* Gallery page
 
-[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+![W3C Validator test result](assets/images/w3ctesting.png)
+
+* Contact page
+
+![W3C Validator test result](assets/images/w3ctesting.png)
+
+* Jigsaw CSS Validator result
+
+![CSS Validator result](assets/images/jigsaw.png) - Pass
+
 
 ### Lighthouse
 
 I used Chrome's Lighthouse developer tool to check my websites performance and the performance is good.
+
+![Lighthouse result](assets/images/lighthouse.png)
 
 
 ### Website Full Testing
@@ -255,10 +266,17 @@ Each devices were tested on
 [Back to top](<#contents>)
 
 ### Bugs
+* ### Resolved
 
-* Fixed bug where the header was covering the main content after adding the meditation image, This was fixed by changing the position of the image from absolute to relative .
+    * Few bugs became known during the validation stage, a brief description is below:
+
+    * gallery page - 
+    ![W3C Validator test result](assets/images/gallery-testing.png)
+* The bugs were resolved by removing the spaces in the naming of the images and replacing them with an hyphen.
+
+* Fixed bug where the header was covering the main content after adding the meditation image, This was fixed by changing the position of the image from absolute to fixed .
 * Updated the background image to cover the full screen of the devices.
-* Fixed a bug where the footer was not showing the social media icon. This was fixed by changing the dark background-color that overshadowed the social media icons.
+* Fixed a bug where the footer was not showing the social media icon. This was fixed by changing the dark background-color that overshadowed the social media icons to grey.
 * Fixed a bug where the form was not displaying well on the mobile device, This was fixed by modifying the padding.
 ---
 
@@ -279,3 +297,6 @@ Each devices were tested on
 * The Loverunning walkthrough project where I got all my guidelines.
 
 [Back to top](<#contents>)
+
+# Acknowledgements
+The website was completed as a Portfolio 1 Project for the Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my mentor Precious Ijege, the Slack community, and all at the Code Institute for their help and support.
